@@ -1,0 +1,26 @@
+body {
+    font-family: "Cardo", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Cardo";
+}
+
+
+.jumbotron {
+    margin: 0;
+    padding: 50px;
+    background-image: linear-gradient(to right, #2F4F4F, #8FBC8F);
+    font-size: 3em;
+    color: white;
+    
+}
+
+.jumbotron h1 {
+    font-size: 2em;
+}
+
+.nav li{
+    padding-left: 40px;
+    padding-right: 40px;
+}
